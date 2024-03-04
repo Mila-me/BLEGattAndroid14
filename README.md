@@ -1,5 +1,5 @@
 
-Android BluetoothLeGatt Sample adapted to Android 8
+Android BluetoothLeGatt Sample adapted to Android 8-14
 ===================================
 
 This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
@@ -23,8 +23,8 @@ The Activities communicate with the Service, which in turn interacts with the [B
 Pre-requisites
 --------------
 
-- Android SDK 27
-- Android Build Tools v27.0.2
+- Android SDK 33
+- Android Build Tools v35.0.0
 - Android Support Repository
 
 Screenshots
