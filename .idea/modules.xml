@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BluetoothLeGattAndroid8.iml" filepath="$PROJECT_DIR$/BluetoothLeGattAndroid8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BLEGattAndroid8-master.iml" filepath="$PROJECT_DIR$/.idea/modules/BLEGattAndroid8-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/BLEGattAndroid8-master.Application.unitTest.iml" />
     </modules>
   </component>
 </project>
