@@ -1,5 +1,5 @@
 
-Android BluetoothLeGatt Sample adapted to Android 8-14
+Android BluetoothLeGatt Sample adapted to Android 8-14 (probably 14+ also)
 ===================================
 
 This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
