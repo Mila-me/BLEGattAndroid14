@@ -5,6 +5,12 @@ Android BluetoothLeGatt Sample adapted to Android 8-14 (probably 14+ also)
 This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
 to transmit arbitrary data between devices.
 
+Why I forked
+------------
+
+I forked this repository because it was issue with building without making changes in the code.
+Now you can test it with your devices without hesitation coz' it doesn't build.
+
 Introduction
 ------------
 
