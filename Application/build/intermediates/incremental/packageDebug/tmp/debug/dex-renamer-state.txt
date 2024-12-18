@@ -1,0 +1,4 @@
+#Mon Mar 04 21:17:03 CET 2024
+base.0=C\:\\projects\\BLEGattAndroid8-master\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

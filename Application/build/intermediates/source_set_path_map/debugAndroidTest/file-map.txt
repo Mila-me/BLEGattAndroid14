@@ -1,0 +1,4 @@
+com.example.android.bluetoothlegatt.test.Application-androidTest-0 C:\projects\BLEGattAndroid8-master\Application\build\generated\res\resValues\androidTest\debug
+com.example.android.bluetoothlegatt.test.Application-mergeDebugAndroidTestResources-1 C:\projects\BLEGattAndroid8-master\Application\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.android.bluetoothlegatt.test.Application-mergeDebugAndroidTestResources-2 C:\projects\BLEGattAndroid8-master\Application\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.android.bluetoothlegatt.test.Application-merged_res-3 C:\projects\BLEGattAndroid8-master\Application\build\intermediates\merged_res\debugAndroidTest
